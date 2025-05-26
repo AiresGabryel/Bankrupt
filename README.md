@@ -60,3 +60,6 @@ Uma execução do programa proposto deve rodar 300 simulações de Bankrupt,
 - Quantos turnos em média demora uma partida;
 - Qual a porcentagem de vitórias por comportamento dos jogadores;
 - Qual o comportamento que mais vence.
+
+## Feito por:
+## Gabryel Aires da Silva para composição da nota da Prova 2 em programação orientada a objetos (FATEC)
